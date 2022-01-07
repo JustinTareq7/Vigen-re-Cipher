@@ -42,6 +42,7 @@ elif decision == "d":
         else:
             print("ValueError: chr() arg not in range(0x110000)")
             print("The Program Will End")
+            print("Look at the Readme.txt file next time")
             break
 
             
