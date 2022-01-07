@@ -17,3 +17,5 @@ step.
 Important Note: 
 -To decrypt, you must put the encrypted text in the file.txt text file and enter d 
 when asked. Otherwise, there will be an error message and the program will terminate. 
+
+Happy Encrypting and Happy Decrypting! 
